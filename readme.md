@@ -5,7 +5,7 @@
 
 ## General info
 
-Clic here to see the simple calculator
+[Clic here to see the simple calculator](https://fabianfv.github.io/javascript-basic/)
 
 This is a practice that shows:
 
